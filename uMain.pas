@@ -138,7 +138,7 @@ begin
   end;
 end;
 
-procedure TFormMain.FormClose(Sender: TObject; var Action: TCloseAction);
+procedure TFormMain.FormClose(Sender: TObject; var Action: TCloseAction);  // closing notification
 var
   MyNotification: TNotification;
 begin
@@ -209,6 +209,7 @@ begin
   end
   else
   begin
+    // controlling components
     ADOQueryIzlash.Active := True;
     RBSaytNomi.Visible := True;
     RBEmail.Visible := True;
