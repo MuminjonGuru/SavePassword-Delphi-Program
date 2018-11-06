@@ -16,3 +16,12 @@ Features:
 -   Windows DARK Theme
 
 [Learn more>>](https://delphi.uz/2017/01/13/delphi-open-source-codes/open-source-save-password-delphi-program-windows-desktop/)
+
+I'm on social networks:
+- [FaceBook](https://www.facebook.com/wwwdelphiuz/)
+- [Twitter](https://twitter.com/MuminjonGuru)
+- [LinkedIn](https://www.linkedin.com/in/muminjon-abduraimov/)
+- [YouTube](https://youtube.com/MuminjonAbduraimov)
+
+My Android app which is built with Delphi FireMonkey
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.delphiapplications.delphiexamples)
