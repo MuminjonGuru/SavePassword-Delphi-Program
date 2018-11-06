@@ -14,3 +14,5 @@ Features:
 -   Add, Edit, Delete and other controllers
 -   Database is secured
 -   Windows DARK Theme
+
+[Learn more>>](https://delphi.uz/2017/01/13/delphi-open-source-codes/open-source-save-password-delphi-program-windows-desktop/)
