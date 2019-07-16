@@ -159,8 +159,8 @@ begin
   MenuItemPassword.Visible := False;
   DBGrid1.Visible := False;
   DBNavigator1.Visible := False;
+  IniFile := TRegIniFile.Create('Software\SavePassword');
   Try
-    IniFile := TRegIniFile.Create('Software\SavePassword');
     Password := IniFile.ReadString('Password', 'Password', Password);
   Finally
     IniFile.Free;
