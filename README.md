@@ -25,6 +25,7 @@ I'm on social networks:
 - [LinkedIn](https://www.linkedin.com/in/muminjon-abduraimov/)
 - [YouTube](https://youtube.com/MuminjonAbduraimov)
 - [Muminjon.com](https://muminjon.com)
+- [Medium.com](https://medium.com/@muminjonguru)
 
 My Android app which is built with Delphi FireMonkey
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.delphiapplications.delphiexamples)
