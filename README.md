@@ -17,6 +17,8 @@ Features:
 -   Database is secured
 -   Windows DARK Theme
 
+[Extension app for this project- Shortcuts for Password](https://github.com/MuminjonGuru/Shortcuts-For-Passwords)
+
 [Learn more>>](https://delphi.uz/2017/01/13/delphi-open-source-codes/open-source-save-password-delphi-program-windows-desktop/)
 
 I'm on social networks:
