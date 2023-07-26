@@ -25,7 +25,7 @@ I'm on social networks:
 - [FaceBook](https://www.facebook.com/wwwdelphiuz/)
 - [Twitter](https://twitter.com/MuminjonGuru)
 - [LinkedIn](https://www.linkedin.com/in/muminjon-abduraimov/)
-- [YouTube](https://youtube.com/MuminjonAbduraimov)
+- [YouTube](https://www.youtube.com/@MuminjonGuru)
 - [Muminjon.com](https://muminjon.com)
 - [Medium.com](https://medium.com/@muminjonguru)
 
