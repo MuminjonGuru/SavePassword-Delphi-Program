@@ -3,7 +3,9 @@
 **      http://delphi.uz                        **
 **                                              **
 **   Simple Password protect program            **
-**                                              **
+**      DO NOT USE THIS TECHNIQUE               **
+**        FOR SECURITY IMPLEMENTATIONS          **
+**            JUST A TOY PROJECT                **
 **   mr.delphiguru@gmail.com                    **
 **************************************************}
 
